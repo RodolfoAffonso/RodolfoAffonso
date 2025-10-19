@@ -1,9 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Rodolfo!</h1>
 <h3 align="center">Desenvolvedor Backend | Java & Spring Boot | Node.js | PostgreSQL</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00FF00&center=true&vCenter=true&width=500&lines=Construindo+soluções+escaláveis;Apaixonado+por+backend+e+boas+práticas;Freelancer+e+Dev+fullstack" alt="Typing SVG"/>
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00FF00&center=true&vCenter=true&width=700&lines=Construindo+soluções+escaláveis;Apaixonado+por+backend+e+boas+práticas;Freelancer+e+Dev+fullstack" alt="Typing SVG"/> </p>
 
 ---
 
