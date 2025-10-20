@@ -46,9 +46,10 @@
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodolfoafonso&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfoafonso&layout=compact&theme=dracula&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RodolfoAffonso&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&v=2" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoAffonso&layout=compact&theme=dracula&hide_border=true&v=2" />
 </p>
+
 
 ---
 
