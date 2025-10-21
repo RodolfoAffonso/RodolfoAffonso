@@ -33,7 +33,7 @@
 ---
 
 ### 🏗️ Projetos em destaque
-#### 🕰️ [Nobile – Marketplace de Relógios](https://github.com/rodolfoafonso/nobile)
+#### 🕰️ [Nobile – Marketplace de Relógios](https://github.com/EodolfoAffonso/nobile)
 - Backend com **Spring Boot**, **PostgreSQL**, **JWT** e **Stripe**  
 - Upload de imagens em **Cloudinary/S3**  
 - Funcionalidades completas para marketplace (roles, anúncios, pagamentos)
